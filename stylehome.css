@@ -15,9 +15,9 @@ a{
     height: 100vh;
     box-sizing: border-box;
     /* background : #fff; */
-    background-image: url(Images/back2.jpg);
+    background-image: url(Images/cool4.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     position: relative;
 }
 /*Navigation Bar Styling*/
@@ -119,10 +119,9 @@ a{
 /**home page content Styling*/
 .home-content{
     position: absolute;
+    left: 10vw;
     font-family: 'Poppins' ,sans-serif;
     width : auto;
-    top: 40vh;
-    left: 10%;
     letter-spacing: 1px;
 }
 .home-content h1{
